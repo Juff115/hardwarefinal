@@ -1,0 +1,32 @@
+body{
+    width: 960px;
+    margin: 10px auto;
+    background-color: blanchedalmond
+}
+h1{
+   background-color: deepskyblue;
+   color: gold;
+   font-family: Impact;
+   font-size: 40px;
+   padding: 10px;
+}
+p{
+  font-family: Arial;
+  font-size: 16px;
+}
+img{
+    margin-right:  30px;
+}
+img.content{
+    margin: 0px;
+    float: right;
+}
+a:link{
+    color: deepskyblue;
+}
+a:hover{
+    color: gold;
+}
+a:visted{
+    color: deepskyblue;
+}
